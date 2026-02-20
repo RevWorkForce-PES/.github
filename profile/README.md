@@ -3,9 +3,7 @@
 <img width="450"alt="Rev WorkForce logo" src="https://github.com/MastanSayyad/RevWorkForce/blob/main/docs/Logo/revworkforce-gif.gif" />
 <br>
   <br>
-<a href="https://github.com/RevWorkForce-PES/P2-RevWorkForce"><img src="https://img.shields.io/badge/P2 RevWorkForce%20-%231DA1F2.svg?&style=for-the-badge&logo=GitHub&logoColor=white&color=grey"></a>
-    <br>
-  <br>
+
 
 <!-- Java -->
 
@@ -24,7 +22,7 @@
 </div>
 
 ## Welcome to RevWorkForce
-This GitHub organization was created for the **Revature Training Program** as part of the **[Phase 2 (P2) RevWorkForce ](https://github.com/RevWorkForce-PES/P2-RevWorkForce)Group Project** **PES Mandya Batch**.
+This GitHub organization was created for the **Revature Training Program** as part of the **Phase 2 RevWorkForce Group Project** **PES Mandya Batch**.
 
 The project, [**P2-RevWorkForce**](https://github.com/RevWorkForce-PES/P2-RevWorkForce), is an enterprise-level Human Resource Management (HRM) web application designed to demonstrate:
 
