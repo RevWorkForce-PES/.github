@@ -34,95 +34,103 @@ The project, [**P2-RevWorkForce**](https://github.com/RevWorkForce-PES/P2-RevWor
 - **Automated** Testing & **Code Quality** Enforcement
 
 ### Group Members ✦
+
 <table>
-  <tr>
-    <th>Profile</th>
-    <th>Name</th>
-    <th>GitHub</th>
-  </tr>
+<tr>
+<th>Profile</th>
+<th>Name</th>
+<th>Role</th>
+<th>GitHub</th>
+<th>LinkedIn</th>
+<th>Contributions</th>
+</tr>
 
-  <!-- Mastan Sayyad -->
-  <tr>
-    <td align="center">
-      <img src="https://github.com/MastanSayyad.png" width="50" height="50" style="border-radius:50%;" alt="MastanSayyad"/>
-    </td>
-    <td align="center"><strong>Mastan Sayyad</strong></td>
-    <td align="center">
-      <a href="https://github.com/MastanSayyad" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white" width="100"/>
-      </a>
-    </td>
-  </tr>
+<tr>
+<td align="center">
+<img src="https://github.com/MastanSayyad.png" width="50" height="50" style="border-radius:50%;">
+</td>
+<td align="center"><strong>Mastan Sayyad</strong></td>
+<td align="center"> Team Lead, Backend, System Design, Authentication, UI/UX, Documentation, CI/CD and Testing</td>
+<td align="center">
+<a href="https://github.com/MastanSayyad">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+</a>
+</td>
+<td align="center">
+<a href="https://www.linkedin.com/in/mastan-sayyad/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/RevWorkForce-PES/P2-RevWorkForce/issues/271#issuecomment-4034593241">View</a>
+</td>
+</tr>
 
-  <!-- Gururaj Shetty -->
-  <tr>
-    <td align="center">
-      <img src="https://github.com/SHETYGURU.png" width="50" height="50" style="border-radius:50%;" alt="GururajShetty"/>
-    </td>
-    <td align="center"><strong>Gururaj Shetty</strong></td>
-    <td align="center">
-      <a href="https://github.com/SHETYGURU" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white" width="100"/>
-      </a>
-    </td>
-  </tr>
+<tr>
+<td align="center">
+<img src="https://github.com/SHETYGURU.png" width="50" height="50" style="border-radius:50%;">
+</td>
+<td align="center"><strong>Gururaj Shetty</strong></td>
+<td align="center">UI Lead, Backend Ops, Admin Operations, System Config, Documentation & Testing</td>
+<td align="center">
+<a href="https://github.com/SHETYGURU">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+</a>
+</td>
+<td align="center">
+<a href="https://www.linkedin.com/in/gururaj-shetty/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/RevWorkForce-PES/P2-RevWorkForce/issues/271#issuecomment-4034599657">View</a>
+</td>
+</tr>
 
-  <!-- Aishwarya MS -->
-  <tr>
-    <td align="center">
-      <img src="https://github.com/Aishwarya6362.png" width="50" height="50" style="border-radius:50%;" alt="AishwaryaMS"/>
-    </td>
-    <td align="center"><strong>Aishwarya MS</strong></td>
-    <td align="center">
-      <a href="https://github.com/Aishwarya6362" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white" width="100"/>
-      </a>
-    </td>
-  </tr>
+<tr>
+<td align="center">
+<img src="https://github.com/Aishwarya6362.png" width="50" height="50" style="border-radius:50%;">
+</td>
+<td align="center"><strong>Aishwarya MS</strong></td>
+<td align="center">Backend Lead, Ui, Leave Module, Notification Module, Holiday Module, Testing</td>
+<td align="center">
+<a href="https://github.com/Aishwarya6362">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+</a>
+</td>
+<td align="center">
+<a href="https://www.linkedin.com/in/m-s-aishwarya-b4b187246">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/RevWorkForce-PES/P2-RevWorkForce/issues/271#issuecomment-4034594963">View</a>
+</td>
+</tr>
 
-  <!-- Shahla Nigar -->
-  <tr>
-    <td align="center">
-      <img src="https://github.com/Shahla750.png" width="50" height="50" style="border-radius:50%;" alt="ShahlaNigar"/>
-    </td>
-    <td align="center"><strong>Shahla Nigar</strong></td>
-    <td align="center">
-      <a href="https://github.com/Shahla750" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white" width="100"/>
-      </a>
-    </td>
-  </tr>
-
-  <!-- Chinmayi Maske -->
-  <tr>
-    <td align="center">
-      <img src="https://github.com/Chinmayim24.png" width="50" height="50" style="border-radius:50%;" alt="ChinmayiMaske"/>
-    </td>
-    <td align="center"><strong>Chinmayi Maske</strong></td>
-    <td align="center">
-      <a href="https://github.com/Chinmayim24" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white" width="100"/>
-      </a>
-    </td>
-  </tr>
-
-  <!-- Nagarjuna Ummanaboyina -->
-  <tr>
-    <td align="center">
-      <img src="https://github.com/NagarjunaUmmanaboyina.png" width="50" height="50" style="border-radius:50%;" alt="NagarjunaUmmanaboyina"/>
-    </td>
-    <td align="center"><strong>Nagarjuna Ummanaboyina</strong></td>
-    <td align="center">
-      <a href="https://github.com/NagarjunaUmmanaboyina" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white" width="100"/>
-      </a>
-    </td>
-  </tr>
+<tr>
+<td align="center">
+<img src="https://github.com/Shahla750.png" width="50" height="50" style="border-radius:50%;">
+</td>
+<td align="center"><strong>Shahla Nigar</strong></td>
+<td align="center">Backend Lead Performance Module, Performance Reviews, goal, Testing & QA</td>
+<td align="center">
+<a href="https://github.com/Shahla750">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+</a>
+</td>
+<td align="center">
+<a href="https://www.linkedin.com/in/shahla-nigar-2796871b5">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/RevWorkForce-PES/P2-RevWorkForce/issues/271#issuecomment-4034598540">View</a>
+</td>
+</tr>
 
 </table>
 
-> [!NOTE]
-> Repo is Private and Actively under development
 
 
 This organization contains all repositories related to the [**P2-RevWorkForce**](https://github.com/RevWorkForce-PES/P2-RevWorkForce) implementation.
